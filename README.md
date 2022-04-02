@@ -1,7 +1,7 @@
 # **MTN COTE D'IVOIRE INFRASTRUCTURE UPGRADE PROJECT ANALYSIS**
 
 ## **Project Overview**
-MTN Cote d'Ivoire, a leading telecom company in Cote d'Ivoire, would like to upgrade its technology infrastructure for mobilr users in the country. 
+MTN Cote d'Ivoire, a leading telecom company in Cote d'Ivoire, would like to upgrade its technology infrastructure for mobile users in the country. 
 Below is a set of data files have been shared for analysis.
 
 **Datasets that we will need for this project are:**
